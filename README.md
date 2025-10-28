@@ -4,13 +4,13 @@
 
 #### Table of Contents
 
-1. [SolarWinds Orion Explained](#orion)
+1. [SolarWinds Explained](#explained)
 2. [Features](#features)
 3. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. <a name="orion">SolarWinds Orion Explained</a>
+## 1. <a name="explained">SolarWinds Explained</a>
 
 <hr />
 
@@ -19,3 +19,7 @@
 <hr />
 
 ## 3. <a name="supplemental">Supplemental Resources</a>
+
+* *[SolarWinds Platform Official Webpage](https://www.solarwinds.com/solutions/orion)*
+* *[SolarWinds Orion Migration Official Webpage](https://www.solarwinds.com/orion-platform)*
+* *[SolarWinds Free Product Trials Official Webpage](https://www.solarwinds.com/products)*
