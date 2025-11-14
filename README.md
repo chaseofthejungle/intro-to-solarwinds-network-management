@@ -1,6 +1,6 @@
 # Intro to SolarWinds Network Management
 
-**TODO:** A brief introductory guide to network and systems solutions offered by SolarWinds.
+**Description/Overview:** SolarWinds is a metrics-oriented network interface monitoring (including for performance, security, and configuration purposes) product, providing recent and real-time data on essential networking characteristics (e.g., processor optimization, latency, availability) for both remote and on-premises networks. However, as it has some limitations, it may not be a practical solution for all IT departments and service providers. 
 
 #### Table of Contents
 
